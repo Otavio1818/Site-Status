@@ -13,10 +13,9 @@ h6{color:white
 }
 
 body{
-    height: 100vh;
     background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-034.jpg");
     background-repeat: no-repeat;
-    background-size: 100;
+    background-size: 100%;
 }
 
 .botton{
