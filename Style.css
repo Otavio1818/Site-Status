@@ -17,6 +17,10 @@ body{
     background-repeat: no-repeat;
     background-size: cover;
 }
+body{
+    background-image: url("https://www.instagram.com/p/CaC7CjzLUDL/")
+
+}
 
 .botton{
     background-color:blue
