@@ -1,0 +1,27 @@
+p{color:white
+
+}
+h1{color:white
+}
+h4{color: white
+}
+h5{color:crimson
+}
+h3{color: black
+}
+h6{color:white
+}
+
+body{
+    background-image: url(../Site/Mini.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.botton{
+    background-color:blue
+    color= white;
+    padding: 15px 32px;
+    text-align: center;
+    font-size: 16px;
+}
