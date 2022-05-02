@@ -1,26 +1,84 @@
-p{color:white
 
-}
-h1{color:white
-}
-h4{color: white
-}
-h5{color:crimson
-}
-h3{color: black
-}
-h6{color:white
-}
 
 body{
-    background-image: url("https://visme.co/blog/wp-content/uploads/2017/07/50-Beautiful-and-Minimalist-Presentation-Backgrounds-034.jpg");
+    background-image: url("https://images2.alphacoders.com/253/253372.jpg");
     background-repeat: no-repeat;
     background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
 }
-.botton{
-    background-color:blue
-    color= white;
-    padding: 15px 32px;
+
+.main {
+    background-color: none;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
     text-align: center;
-    font-size: 16px;
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    background-color: rgba(248, 248, 248, 0.782);
+    border-radius: 10px;
+    text-shadow: 2px 2px #ffffff49;
+    font-weight: bolder;
+}
+
+.section {
+    padding: 4%;
+    border-top: 3px dashed black;
+    width: 100%;
+}
+
+.main h1, p{
+    color: black;
+    font-family: cursive;
+}
+
+.section h3{
+    color: black;
+    font-family: cursive;
+}
+
+
+.main p{
+    font-size: 1.25em;
+}
+
+.imgSection {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 10px;
+    column-gap: 50px;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+.imgSection h2{
+    color: black;
+    font-size: 1.2em;
+}
+
+.img_space {
+    display: flex;
+    flex-direction: column;
+    justify-content: baseline;
+    height: 600px;
+    width: 500px;
+    margin: 0;
+    background-color: #fff;
+    box-shadow: 1px 1px 4px black;
+}
+
+.img_space h2 {
+    text-decoration: underline black;
+}
+
+.img_space img {
+    margin-left: 3%;
+    margin-right: 3%;
+    margin-top: 3%;
 }
